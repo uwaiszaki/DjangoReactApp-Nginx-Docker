@@ -1,0 +1,5 @@
+django-cors-headers==2.4.0
+django==2.1.5
+djangorestframework==3.9.4
+python-dotenv==0.10.1
+psycopg2==2.7.3.2
